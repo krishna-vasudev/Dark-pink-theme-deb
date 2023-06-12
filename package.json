@@ -1,0 +1,21 @@
+{
+  "name": "dark-pink-theme-deb",
+  "displayName": "Dark Pink Theme-deb",
+  "description": "This is a dark pink color theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-pink-theme-deb",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deb-theme-color-theme.json"
+      }
+    ]
+  }
+}
