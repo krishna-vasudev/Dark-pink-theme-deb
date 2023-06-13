@@ -3,7 +3,7 @@
   "displayName": "Dark Pink Theme-deb",
   "description": "This is a dark pink color theme.",
   "icon": "image/logo.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "DebrajBhal",
   "engines": {
     "vscode": "^1.79.0"
@@ -22,6 +22,6 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/krishna-vasudev/jstl-snippets-by-deb.git"
+      "url": "https://github.com/krishna-vasudev/Dark-pink-theme-deb.git"
   }
 }
